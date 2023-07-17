@@ -1,0 +1,12 @@
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\bin\Debug\Aula06Streming.exe.config
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\bin\Debug\Aula06Streming.exe
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\bin\Debug\Aula06Streming.pdb
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.csproj.AssemblyReference.cache
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.csproj.SuggestedBindingRedirects.cache
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.Form1.resources
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.Properties.Resources.resources
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.csproj.GenerateResource.cache
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.exe
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.pdb
+C:\Users\wendell.mcardoso\source\Aula06Streming\Aula06Streming\obj\Debug\Aula06Streming.Form2.resources
