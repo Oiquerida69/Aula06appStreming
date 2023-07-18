@@ -14,6 +14,8 @@ namespace Aula06Streming
     {
         public string titulo;
         public string descricao;
+        public string CaminhoImagem;
+        public string Link_video;
         public Form2()
         {
             InitializeComponent();
@@ -28,12 +30,23 @@ namespace Aula06Streming
         {
 
         }
-
+        
         private void Form2_Load(object sender, EventArgs e)
         {
+            
+            Form1 Maintela = new Form1();
+            
+            
             lbl_Titulo.Text = $"{titulo}";
             lbl_Descricao.Text = $"{descricao}";
+            pic_Fundo.ImageLocation = CaminhoImagem;
+            Wv_video.Source = new Uri(Link_video);
 
+        }
+
+        private void btn_Assistir_Click(object sender, EventArgs e)
+        {
+            Wv_video.Show();
         }
     }
 }
